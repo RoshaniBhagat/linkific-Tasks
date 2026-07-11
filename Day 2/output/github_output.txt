@@ -1,0 +1,43 @@
+GitHub Repository Details
+============================================================
+
+Repository : boysenberry-repo-1
+Language   : None
+Stars      : 460
+Forks      : 27
+--------------------------------------------------
+Repository : git-consortium
+Language   : None
+Stars      : 588
+Forks      : 173
+--------------------------------------------------
+Repository : hello-worId
+Language   : None
+Stars      : 766
+Forks      : 288
+--------------------------------------------------
+Repository : Hello-World
+Language   : None
+Stars      : 3668
+Forks      : 6213
+--------------------------------------------------
+Repository : linguist
+Language   : Ruby
+Stars      : 737
+Forks      : 277
+--------------------------------------------------
+Repository : octocat.github.io
+Language   : CSS
+Stars      : 1126
+Forks      : 555
+--------------------------------------------------
+Repository : Spoon-Knife
+Language   : HTML
+Stars      : 13894
+Forks      : 157920
+--------------------------------------------------
+Repository : test-repo1
+Language   : None
+Stars      : 468
+Forks      : 43
+--------------------------------------------------

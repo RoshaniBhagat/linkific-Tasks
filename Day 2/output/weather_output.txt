@@ -1,0 +1,7 @@
+Weather Report
+========================================
+
+Temperature : 29.17 °C
+Humidity    : 59%
+Wind Speed  : 5.68 m/s
+Description : overcast clouds

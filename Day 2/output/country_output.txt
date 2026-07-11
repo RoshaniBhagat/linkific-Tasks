@@ -1,0 +1,403 @@
+Countries Population Data
+============================================================
+
+Country   : Åland Islands
+City      : MARIEHAMN
+Population: 10488
+----------------------------------------
+Country   : Albania
+City      : Durrës
+Population: 113249
+----------------------------------------
+Country   : Albania
+City      : TIRANA
+Population: 392863
+----------------------------------------
+Country   : Algeria
+City      : Annaba
+Population: 352523
+----------------------------------------
+Country   : Algeria
+City      : Batna
+Population: 246800
+----------------------------------------
+Country   : Algeria
+City      : Béchar
+Population: 134523
+----------------------------------------
+Country   : Algeria
+City      : Bejaïa
+Population: 144405
+----------------------------------------
+Country   : Algeria
+City      : Beskra
+Population: 177060
+----------------------------------------
+Country   : Algeria
+City      : Bordj Bou Arreridj
+Population: 129004
+----------------------------------------
+Country   : Algeria
+City      : Bordj el Kiffan
+Population: 103690
+----------------------------------------
+Country   : Algeria
+City      : Ech Cheliff (El Asnam)
+Population: 174314
+----------------------------------------
+Country   : Algeria
+City      : El Boulaïda (Blida)
+Population: 229788
+----------------------------------------
+Country   : Algeria
+City      : ALGIERS (EL DJAZAIR)
+Population: 1569897
+----------------------------------------
+Country   : Algeria
+City      : El Djelfa
+Population: 158679
+----------------------------------------
+Country   : Algeria
+City      : El Eulma
+Population: 104758
+----------------------------------------
+Country   : Algeria
+City      : El Wad
+Population: 105151
+----------------------------------------
+Country   : Algeria
+City      : Ghardaïa
+Population: 127959
+----------------------------------------
+Country   : Algeria
+City      : Ghilizane
+Population: 104644
+----------------------------------------
+Country   : Algeria
+City      : Guelma
+Population: 108682
+----------------------------------------
+Country   : Algeria
+City      : Jijel
+Population: 106306
+----------------------------------------
+Country   : Algeria
+City      : Lemdiyya (Medea)
+Population: 128427
+----------------------------------------
+Country   : Algeria
+City      : Mestghanem (Mostaganem)
+Population: 125911
+----------------------------------------
+Country   : Algeria
+City      : M'Sila
+Population: 102151
+----------------------------------------
+Country   : Algeria
+City      : Qacentina (Constantine)
+Population: 465021
+----------------------------------------
+Country   : Algeria
+City      : Saïda
+Population: 113533
+----------------------------------------
+Country   : Algeria
+City      : Sidi-bel-Abbès
+Population: 183931
+----------------------------------------
+Country   : Algeria
+City      : Skikda
+Population: 153531
+----------------------------------------
+Country   : Algeria
+City      : Souq Ahras
+Population: 114512
+----------------------------------------
+Country   : Algeria
+City      : Stif (Sétif)
+Population: 214842
+----------------------------------------
+Country   : Algeria
+City      : Tbessa
+Population: 154335
+----------------------------------------
+Country   : Algeria
+City      : Tihert
+Population: 148850
+----------------------------------------
+Country   : Algeria
+City      : Tilimsen (Tlemcen)
+Population: 156258
+----------------------------------------
+Country   : Algeria
+City      : Touggourt
+Population: 114183
+----------------------------------------
+Country   : Algeria
+City      : Wahran (Oran)
+Population: 705335
+----------------------------------------
+Country   : Algeria
+City      : Wargla
+Population: 139381
+----------------------------------------
+Country   : American Samoa
+City      : PAGO PAGO
+Population: 4278
+----------------------------------------
+Country   : Andorra
+City      : ANDORRA LA VELLA
+Population: 21245
+----------------------------------------
+Country   : Anguilla
+City      : THE VALLEY
+Population: 4904
+----------------------------------------
+Country   : Antigua and Barbuda
+City      : ST. JOHN
+Population: 22342
+----------------------------------------
+Country   : Argentina
+City      : Bahía Blanca-Cerri
+Population: 260096
+----------------------------------------
+Country   : Argentina
+City      : BUENOS AIRES
+Population: 11298030
+----------------------------------------
+Country   : Argentina
+City      : Catamarca
+Population: 132626
+----------------------------------------
+Country   : Argentina
+City      : Comodoro Rivadavia-Rada Tilly
+Population: 124104
+----------------------------------------
+Country   : Argentina
+City      : Concordia
+Population: 116485
+----------------------------------------
+Country   : Argentina
+City      : Córdoba
+Population: 412759
+----------------------------------------
+Country   : Argentina
+City      : Corrientes
+Population: 258103
+----------------------------------------
+Country   : Argentina
+City      : Formosa
+Population: 92023
+----------------------------------------
+Country   : Argentina
+City      : La Plata
+Population: 642979
+----------------------------------------
+Country   : Argentina
+City      : La Rioja
+Population: 181938.392736754
+----------------------------------------
+Country   : Argentina
+City      : San Luis - El Chorrillo
+Population: 203161.629153992
+----------------------------------------
+Country   : Argentina
+City      : Mar del Plata-Batán
+Population: 512880
+----------------------------------------
+Country   : Argentina
+City      : Mendoza
+Population: 773113
+----------------------------------------
+Country   : Argentina
+City      : Neuquén-Plottier
+Population: 183579
+----------------------------------------
+Country   : Argentina
+City      : Paraná
+Population: 211936
+----------------------------------------
+Country   : Argentina
+City      : Posadas
+Population: 210755
+----------------------------------------
+Country   : Argentina
+City      : Resistencia
+Population: 292287
+----------------------------------------
+Country   : Argentina
+City      : Río Cuarto
+Population: 138853
+----------------------------------------
+Country   : Argentina
+City      : Rosario
+Population: 105561
+----------------------------------------
+Country   : Argentina
+City      : Salta
+Population: 370904
+----------------------------------------
+Country   : Argentina
+City      : San Juan
+Population: 117680
+----------------------------------------
+Country   : Argentina
+City      : San Salvador de Jujuy-Palpalá
+Population: 180102
+----------------------------------------
+Country   : Argentina
+City      : Santa Fé
+Population: 406388
+----------------------------------------
+Country   : Argentina
+City      : Santa Rosa-Toay
+Population: 121229.365117479
+----------------------------------------
+Country   : Argentina
+City      : Santiago del Estero-La Banda
+Population: 263471
+----------------------------------------
+Country   : Argentina
+City      : Tucumán-Tafí Viejo
+Population: 811804.106587273
+----------------------------------------
+Country   : Argentina
+City      : Ushuaia-Río Grande
+Population: 122104.906599864
+----------------------------------------
+Country   : Argentina
+City      : Rawson-Trelew-Playa Unión
+Population: 128970.652529568
+----------------------------------------
+Country   : Argentina
+City      : San Nicolás-Villa Constitución
+Population: 119302
+----------------------------------------
+Country   : Argentina
+City      : Avellaneda
+Population: 344024
+----------------------------------------
+Country   : Argentina
+City      : General San Martín
+Population: 406809
+----------------------------------------
+Country   : Argentina
+City      : La Matanza
+Population: 1120088
+----------------------------------------
+Country   : Argentina
+City      : Lanus
+Population: 468561
+----------------------------------------
+Country   : Argentina
+City      : Lomas de Zamora
+Population: 574330
+----------------------------------------
+Country   : Argentina
+City      : Morón
+Population: 643553
+----------------------------------------
+Country   : Argentina
+City      : Quilmes
+Population: 511234
+----------------------------------------
+Country   : Argentina
+City      : San Fernando
+Population: 141063
+----------------------------------------
+Country   : Argentina
+City      : San Isidro
+Population: 299023
+----------------------------------------
+Country   : Argentina
+City      : San Miguel de Tucumán
+Population: 622324
+----------------------------------------
+Country   : Argentina
+City      : Vicente López
+Population: 289505
+----------------------------------------
+Country   : Armenia
+City      : Gyumri (Leninakan)
+Population: 150917
+----------------------------------------
+Country   : Armenia
+City      : YEREVAN
+Population: 1103488
+----------------------------------------
+Country   : Armenia
+City      : Vanadzoz (Kirovakan)
+Population: 107394
+----------------------------------------
+Country   : Aruba
+City      : ORANJESTAD
+Population: 20045
+----------------------------------------
+Country   : Australia
+City      : Adelaide
+Population: 995955
+----------------------------------------
+Country   : Australia
+City      : Brisbane
+Population: 1490475
+----------------------------------------
+Country   : Australia
+City      : Cairns
+Population: 116885
+----------------------------------------
+Country   : Australia
+City      : Canberra-Queanbeyan
+Population: 410419
+----------------------------------------
+Country   : Australia
+City      : Central Coast
+Population: 254579
+----------------------------------------
+Country   : Australia
+City      : Darwin
+Population: 87662
+----------------------------------------
+Country   : Australia
+City      : Geelong
+Population: 129668
+----------------------------------------
+Country   : Australia
+City      : Gold Coast-Tweed Heads
+Population: 406619
+----------------------------------------
+Country   : Australia
+City      : Greater Adelaide
+Population: 1262940
+----------------------------------------
+Country   : Australia
+City      : Greater Brisbane
+Population: 2146577
+----------------------------------------
+Country   : Australia
+City      : Greater Darwin
+Population: 129062
+----------------------------------------
+Country   : Australia
+City      : Greater Hobart
+Population: 216276
+----------------------------------------
+Country   : Australia
+City      : Greater Melbourne
+Population: 4169103
+----------------------------------------
+Country   : Australia
+City      : Greater Perth
+Population: 1832114
+----------------------------------------
+Country   : Australia
+City      : Greater Sydney
+Population: 4605992
+----------------------------------------
+Country   : Australia
+City      : Hobart
+Population: 125162
+----------------------------------------
+Country   : Australia
+City      : Melbourne
+Population: 3132900
+----------------------------------------
