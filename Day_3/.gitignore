@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python Packaging
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Environment Variables
+.env
+
+# Selenium
+chromedriver.exe
+geckodriver.exe
+msedgedriver.exe
+
+# OS Files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Cache
+.pytest_cache/
+.mypy_cache/
+
+# Temporary Files
+*.tmp
+*.bak
+*.swp
+
+# Local Database
+*.db
+*.sqlite3
