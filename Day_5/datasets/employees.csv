@@ -1,0 +1,11 @@
+EmployeeID,Name,Department,Salary,Experience,City
+101,Amit,IT,60000,2,Bangalore
+102,Priya,HR,45000,5,Delhi
+103,Rahul,Finance,70000,7,Mumbai
+104,Neha,IT,80000,8,Bangalore
+105,Karan,Marketing,55000,4,Pune
+106,Sneha,Finance,90000,10,Delhi
+107,Rohan,IT,65000,3,Hyderabad
+108,Meera,HR,50000,6,Mumbai
+109,Anjali,Marketing,58000,5,Pune
+110,Vikram,Finance,75000,9,Bangalore

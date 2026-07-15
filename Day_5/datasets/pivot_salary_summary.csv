@@ -1,0 +1,7 @@
+,mean,sum,max,min,count
+,Salary,Salary,Salary,Salary,Salary
+Department,,,,,
+Finance,78333.33333333333,235000,90000,70000,3
+HR,47500.0,95000,50000,45000,2
+IT,68333.33333333333,205000,80000,60000,3
+Marketing,56500.0,113000,58000,55000,2

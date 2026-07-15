@@ -1,0 +1,11 @@
+OrderDate,OrderID,Customer,Product,Category,Quantity,Price,City,Sales,Rolling_Average
+2025-01-10,1001,Alice,Laptop,Electronics,2,65000,Bangalore,130000,
+2025-01-12,1002,Bob,Mouse,Electronics,5,700,Hyderabad,3500,
+2025-01-15,1003,Charlie,Keyboard,Electronics,3,1500,Delhi,4500,46000.0
+2025-01-18,1004,David,Chair,Furniture,2,5000,Mumbai,10000,6000.0
+2025-01-20,1005,Eva,Table,Furniture,1,8000,Pune,8000,7500.0
+2025-01-25,1006,Frank,Laptop,Electronics,1,65000,Bangalore,65000,27666.666666666668
+2025-01-26,1007,Grace,Monitor,Electronics,2,12000,Chennai,24000,32333.333333333332
+2025-01-28,1008,Harry,Desk,Furniture,3,9000,Delhi,27000,38666.666666666664
+2025-02-01,1009,Ivy,Keyboard,Electronics,2,1500,Mumbai,3000,18000.0
+2025-02-03,1010,Jack,Mouse,Electronics,4,700,Hyderabad,2800,10933.333333333334
