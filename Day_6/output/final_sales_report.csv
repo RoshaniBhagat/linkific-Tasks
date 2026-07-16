@@ -1,0 +1,7 @@
+CustomerName,City,ProductName,Category,Quantity,Price,TotalAmount
+Alice,Bangalore,Laptop,Electronics,2,65000,130000
+Alice,Bangalore,Keyboard,Accessories,4,1500,6000
+Bob,Mysore,Mouse,Accessories,1,700,700
+Charlie,Mangalore,Laptop,Electronics,1,65000,65000
+David,Hubli,Monitor,Electronics,3,12000,36000
+Eva,Belgaum,Headphones,Accessories,5,2500,12500
