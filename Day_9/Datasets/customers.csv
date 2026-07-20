@@ -1,0 +1,11 @@
+customer_id,customer_name,city,email
+1,Alice,New York,alice@gmail.com
+2,Bob,Chicago,bob@gmail.com
+3,Charlie,Dallas,charlie@gmail.com
+4,David,Boston,david@gmail.com
+5,Eva,Seattle,eva@gmail.com
+6,Frank,Miami,frank@gmail.com
+7,Grace,Denver,grace@gmail.com
+8,Henry,San Francisco,henry@gmail.com
+9,Irene,Los Angeles,irene@gmail.com
+10,Jack,Houston,jack@gmail.com

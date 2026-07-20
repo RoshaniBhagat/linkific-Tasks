@@ -1,0 +1,13 @@
+employee_id,employee_name,department_id,manager_id,salary
+1,John,2,,90000
+2,Mary,2,1,70000
+3,Steve,2,1,65000
+4,Linda,1,,60000
+5,James,1,4,45000
+6,Sophia,3,,85000
+7,Michael,4,,75000
+8,Emma,4,7,55000
+9,Olivia,5,,72000
+10,Daniel,5,9,50000
+11,Lucas,3,6,68000
+12,Amelia,2,1,62000
