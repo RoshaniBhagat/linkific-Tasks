@@ -1,0 +1,11 @@
+product_id,product_name,category,price
+P101,Laptop,Electronics,65000
+P102,Keyboard,Electronics,1500
+P103,Mouse,Electronics,800
+P104,Chair,Furniture,3500
+P105,Table,Furniture,7000
+P106,Monitor,Electronics,12000
+P107,Headphones,Electronics,2500
+P108,Printer,Electronics,9500
+P109,Notebook,Stationery,120
+P110,Pen,Stationery,20
